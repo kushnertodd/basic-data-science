@@ -1,4 +1,4 @@
-# basic-data-science-python
+# basic-data-science
 Jupyter site for Basic Data Science Python introduction
 
 ## Running the Python Jupyter notebook from the Internet
