@@ -10,7 +10,7 @@ Metacharacters are characters with a special meaning:
 | * | Zero or more occurrences | "he.<em>o" |
 | + | One or more occurrences | "he.+o" |
 | ? | Zero or one occurrences | "he.?o" |
-| {</em>m<em>} | Exactly *m</em> occurrences | "he.{2}o" |
+| {<em>m</em>} | Exactly <em>m</em> occurrences | "he.{2}o" |
 | {<em>m</em>,<em>n</em>} | Between <em>m</em> and <em>n</em> occurrences | "he.{2,3}o" |
 | \| | Either or | "falls\|stays" |
 | () | Capture and group |
