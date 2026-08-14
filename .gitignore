@@ -3,6 +3,7 @@ archive/
 archive/
 .*.swp
 .$*
+~$*
 *.html
 *-*
 .ipynb_checkpoints
